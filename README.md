@@ -1,4 +1,4 @@
-# Lab 5.1 Model Quality Monitors with Sagemaker and Cloudwatch
+# Lab 5.1 Model Quality Monitoring with Sagemaker and Cloudwatch
 
 This lab was borrowed AWS documentation
 
